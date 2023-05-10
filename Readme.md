@@ -1,3 +1,3 @@
 # Test
 
-Code to draw a triangle in SQL
+Code to draw a triangle in SQL.
